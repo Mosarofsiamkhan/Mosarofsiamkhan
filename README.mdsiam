@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @Mosarofsiamkhan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Mosarofsiamkhan/Mosarofsiamkhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+apt update 
+apt upgrade 
+pkg install python 
+pkg install git
+git clone https://github.com/Mosarofsiamkhan/Mosarofsiamkhanclone 
+ls
+cd Mosarofsiamkhan
+python Mosarofsiamkhan.py
+┌─────────────────────────────────┐
+│          _                      │
+│         (_)                     │
+│      ___ _  __ _ _ __ ___       │
+│     / __| |/ _` | '_ ` _ \      │
+│     \__ \ | (_| | | | | | |     │
+│     |___/_|\__,_|_| |_| |_|     │
+│                                 │
+│                                 │
+└─────────────────────────────────┘
