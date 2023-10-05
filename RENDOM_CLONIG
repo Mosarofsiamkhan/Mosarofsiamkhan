@@ -1,12 +1,4 @@
-apt update 
-apt upgrade
-pkg install python 
-pkg install git 
 
-git clone https://github.com/Mosarofsiamkhan/Mosarofsiamkhan
-ls 
-cd Mosarofsiamkhan
-python  Mosarofsiamkhan.py 
 ┌─────────────────────────────────┐
 │          _                      │
 │         (_)                     │      
